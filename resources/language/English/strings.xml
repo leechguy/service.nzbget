@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<strings>
+    <!-- Addon settings -->
+    <string id="30000">General</string>
+    <string id="30001">Control NZBGet when playing</string>
+    <string id="30002">Pause downloading</string>
+    <string id="30003">Pause post processing</string>
+    <string id="30004">Pause scanning of incoming nzb-directory</string>
+    <string id="30010">NZBGet</string>
+    <string id="30011">Hostname</string>
+    <string id="30012">Port</string>
+    <string id="30013">Username</string>
+    <string id="30014">Password</string>
+    <string id="30015">Use pause register</string>
+</strings>

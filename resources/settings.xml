@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<settings>
+    <category id="general" label="30000">
+        <setting id="controlNzbget" type="labelenum" label="30001" values="Audio|Video|Audio or Video" default="Video" />
+        <setting id="pauseDownload" type="bool" label="30002" default="true" />
+        <setting id="pausePostProcessing" type="bool" label="30003" default="true" />
+        <setting id="pauseScan" type="bool" label="30004" default="false" />
+    </category>
+    <category id="nzbget" label="30010">
+        <setting id="hostname" type="text" label="30011" default="localhost" />
+        <setting id="port" type="text" label="30012" default="6789" />
+        <setting id="username" type="text" label="30013" default="nzbget" />
+        <setting id="password" type="text" label="30014" default="tegbzn6789" />
+        <setting id="pauseRegister" type="labelenum" label="30015" values="1|2" default="2" />
+    </category>
+</settings>
